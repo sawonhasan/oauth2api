@@ -1,1 +1,3 @@
-# oauth2api
+# OAuth2 API in CodeIgniter
+
+----------------
